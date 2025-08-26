@@ -26,15 +26,15 @@ NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "devaansh"
 
 CANDIDATE_SOURCES = [
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\Regulatory Submission Continuity Plan_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\Compliance & Legal Operations Continuity & Regulatory Readiness Test_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\Compliance & Legal Regulatory Escalation Call Tree_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\REGULATORY REPORTING_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Branch Banking_Cash Management_Treasury Operations_Thane_India\Branch Banking Operations Continuity & Alternate Site Test_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Branch Banking_Cash Management_Treasury Operations_Thane_India\Branch Cash Replenishment Continuity Plan_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Branch Banking_Cash Management_Treasury Operations_Thane_India\BRANCH CASH REPLENISHMENT PROCESS RISK ASSESSMENT_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Branch Banking_Cash Management_Treasury Operations_Thane_India\BRANCH CASH REPLENISHMENT PROCESS_1.01.pdf",
-    r"C:\Users\DevaanshArora\Downloads\AutoBCM_Mashreq\AutoBCM_Mashreq\BCM_Branch Banking_Cash Management_Treasury Operations_Thane_India\Cash Management Operations Emergency Call Tree_1.01.pdf"
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\Regulatory Submission Continuity Plan_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\Compliance & Legal Operations Continuity & Regulatory Readiness Test_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\Compliance & Legal Regulatory Escalation Call Tree_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Compliance & Legal_Statutory Compliance_Reporting & Analytics_Aluva_India\REGULATORY REPORTING_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Branch Banking_Cash Management_Treasury Operations_Thane_India\Branch Banking Operations Continuity & Alternate Site Test_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Branch Banking_Cash Management_Treasury Operations_Thane_India\Branch Cash Replenishment Continuity Plan_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Branch Banking_Cash Management_Treasury Operations_Thane_India\BRANCH CASH REPLENISHMENT PROCESS RISK ASSESSMENT_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Branch Banking_Cash Management_Treasury Operations_Thane_India\BRANCH CASH REPLENISHMENT PROCESS_1.01.pdf",
+    r"C:\Users\DevaanshArora\Downloads\BOM\BOM\COOLXO_Branch Banking_Cash Management_Treasury Operations_Thane_India\Cash Management Operations Emergency Call Tree_1.01.pdf"
 ]
 
 
